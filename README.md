@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **[Your Name]**, a passionate Software Developer Intern currently working at a startup in Kolkata. I'm on an exciting journey to grow as a developer and build impactful software solutions.
+I'm **Mihir Raj Chowdhury**, a passionate Software Developer Intern currently working at a startup in Kolkata. I'm on an exciting journey to grow as a developer and build impactful software solutions.
 
 ---
 
@@ -9,7 +9,7 @@ I'm **[Your Name]**, a passionate Software Developer Intern currently working at
 - 🎓 **Education**: Currently in my 8th semester, pursuing my degree while honing my software development skills.
 - 💼 **Work Experience**: SDE Intern, where I work on real-world web development projects.
 - 🌟 **Primary Stack**: MERN (MongoDB, Express.js, React, Node.js).
-- 🌱 **Learning Focus**: Advanced React, TypeScript, Next.js patterns, GraphQL, state management, backend optimization, serverless architecture, and microservices.
+- 🌱 **Learning Focus**: Advanced React, TypeScript, Next.js patterns, state management, backend optimization, serverless architecture, and microservices.
 - 📚 **Interests**: Passionate about self-improvement and inspired by books like *Who Will Cry When You Die?* and *The Power of Now*.
 - ✍️ **Content Creation**: Writing articles on Medium and building the 'learners' community on Reddit.
 
@@ -18,9 +18,9 @@ I'm **[Your Name]**, a passionate Software Developer Intern currently working at
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, Redux, HTML, CSS, JavaScript, TypeScript.
-- **Backend**: Node.js, Express.js, GraphQL.
-- **Database**: MongoDB, Firebase.
-- **Tools**: Git, GitHub, Android Studio, Android Emulator, Docker.
+- **Backend**: Node.js, Express.js, multer.
+- **Database**: MongoDB, Firebase, Postgres. 
+- **Tools**: Git, GitHub, Android Studio, Android Emulator, Docker, AWS SDK.
 
 ---
 
