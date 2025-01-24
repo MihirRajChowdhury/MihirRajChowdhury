@@ -1,59 +1,58 @@
-Hi there! 👋
+# Hi there! 👋
 
-I'm Mihir Raj Chowdhury, a passionate Software Developer Intern currently working at a startup in Kolkata. I'm on an exciting journey to grow as a developer and build impactful software solutions.
+I'm **[Your Name]**, a passionate Software Developer Intern currently working at a startup in Kolkata. I'm on an exciting journey to grow as a developer and build impactful software solutions.
 
-🚀 About Me
+---
 
-🎓 Education: Currently in my 8th semester, pursuing my degree while honing my software development skills.
+## 🚀 About Me
 
-💼 Work Experience: SDE Intern, where I work on real-world web development projects.
+- 🎓 **Education**: Currently in my 8th semester, pursuing my degree while honing my software development skills.
+- 💼 **Work Experience**: SDE Intern, where I work on real-world web development projects.
+- 🌟 **Primary Stack**: MERN (MongoDB, Express.js, React, Node.js).
+- 🌱 **Learning Focus**: Advanced React, TypeScript, Next.js patterns, GraphQL, state management, backend optimization, serverless architecture, and microservices.
+- 📚 **Interests**: Passionate about self-improvement and inspired by books like *Who Will Cry When You Die?* and *The Power of Now*.
+- ✍️ **Content Creation**: Writing articles on Medium and building the 'learners' community on Reddit.
 
-🌟 Primary Stack: MERN (MongoDB, Express.js, React, Node.js).
+---
 
-🌱 Learning Focus: Advanced React, TypeScript, Next.js patterns, GraphQL, state management, backend optimization, serverless architecture, and microservices.
+## 🛠️ Tech Stack
 
-📚 Interests: Passionate about self-improvement and inspired by books like Who Will Cry When You Die? and The Power of Now.
+- **Frontend**: React, Redux, HTML, CSS, JavaScript, TypeScript.
+- **Backend**: Node.js, Express.js, GraphQL.
+- **Database**: MongoDB, Firebase.
+- **Tools**: Git, GitHub, Android Studio, Android Emulator, Docker.
 
-✍️ Content Creation: Writing articles on Medium and building the 'learners' community on Reddit.
+---
 
-🛠️ Tech Stack
+## 💡 What I'm Working On
 
-Frontend: React, Redux, HTML, CSS, JavaScript, TypeScript.
+- 🌐 Building robust LinkedIn login features for mobile apps (with experience implementing it for web).
+- 🖋️ Writing Medium articles on self-improvement and technical concepts.
+- 🎯 Preparing to transition to Bangalore to further my career as a software developer.
 
-Backend: Node.js, Express.js, GraphQL.
+---
 
-Database: MongoDB, Firebase.
+## 🎯 Goals for 2025 and Beyond
 
-Tools: Git, GitHub, Android Studio, Android Emulator, Docker.
+- 💰 Achieve financial independence and earn $1M within the next three years.
+- 🧠 Master advanced software development topics and become one of the best developers.
+- 📝 Share knowledge through writing and community building.
 
-💡 What I'm Working On
+---
 
-🌐 Building robust LinkedIn login features for mobile apps (with experience implementing it for web).
+## 📈 GitHub Stats
 
-🖋️ Writing Medium articles on self-improvement and technical concepts.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-🎯 Preparing to transition to Bangalore to further my career as a software developer.
+---
 
-🎯 Goals for 2025 and Beyond
+## 📫 Connect with Me
 
-💰 Achieve financial independence and earn $1M within the next three years.
+- 💼 [LinkedIn]([https://linkedin.com/in/YourHandle](https://www.linkedin.com/in/mihir-raj-chowdhury-02b339245/))
+- ✍️ [Medium]([https://medium.com/@YourHandle](https://medium.com/@rajmihir945))
 
-🧠 Master advanced software development topics and become one of the best developers.
 
-📝 Share knowledge through writing and community building.
-
-📈 GitHub Stats
-![MihirRajChowdhury's Stats](https://github-readme-stats.vercel.app/api?username=MihirRajChowdhury&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![MihirRajChowdhury's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MihirRajChowdhury&theme=tokyonight&hide_border=true)
-![MihirRajChowdhury's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirRajChowdhury&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-📫 Connect with Me
-
-🐦 Twitter
-
-💼 LinkedIn
-
-✍️ Medium
-
-🌱 Reddit - learners
+---
 
 Thanks for visiting my profile! Let's connect and collaborate to create amazing software. ✨
+
