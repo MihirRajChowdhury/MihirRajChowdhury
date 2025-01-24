@@ -48,9 +48,8 @@ I'm **Mihir Raj Chowdhury**, a passionate Software Developer Intern currently wo
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn]([https://linkedin.com/in/YourHandle](https://www.linkedin.com/in/mihir-raj-chowdhury-02b339245/))
-- ✍️ [Medium]([https://medium.com/@YourHandle](https://medium.com/@rajmihir945))
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/mihir-raj-chowdhury-02b339245/)
+- ✍️ [Medium](https://medium.com/@rajmihir945)
 
 ---
 
